@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.319563 0.371489 0.414287 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>FiraCode-Bold - 13.0</string>
+	<string>SFMono-Bold - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.319563 0.371489 0.414287 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>FiraCode-Regular - 13.0</string>
+	<string>SFMono-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.777301 0.101091 0.1425 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>FiraCode-Bold - 13.0</string>
+	<string>FiraCode-Light - 13.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.319563 0.371489 0.414287 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>FiraCode-Regular - 13.0</string>
+	<string>SFMono-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.319563 0.371489 0.414287 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>FiraCode-Bold - 13.0</string>
+	<string>SFMono-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.92606 0.933418 0.949697 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -37,7 +37,7 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.23658 0.263134 0.283049 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>FiraCode-Regular - 12.0</string>
+	<string>SFMono-Regular - 12.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.4 0.6 0.6 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
@@ -69,7 +69,7 @@
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.SFNSText-Bold - 12.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.919033 0.932246 0.940001 1</string>
+	<string>0.966141 0.9846 0.999911 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
@@ -132,51 +132,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Regular - 12.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.string</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraCode-Regular - 13.0</string>
+		<string>FiraCode-Light - 13.0</string>
 	</dict>
 </dict>
 </plist>
