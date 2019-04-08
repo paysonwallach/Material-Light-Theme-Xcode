@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.319563 0.371489 0.414287 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>Hasklig-Medium - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.319563 0.371489 0.414287 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>SFMono-Regular - 11.0</string>
+	<string>Hasklig-Medium - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.777301 0.101091 0.1425 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>FiraCode-Light - 13.0</string>
+	<string>Hasklig-Medium - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.319563 0.371489 0.414287 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>SFMono-Regular - 11.0</string>
+	<string>Hasklig-Medium - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.319563 0.371489 0.414287 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>SFMono-Bold - 11.0</string>
+	<string>Hasklig-Medium - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.92606 0.933418 0.949697 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -68,6 +68,20 @@
 	<string>0.4 0.6 0.6 1</string>
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.SFNSText-Bold - 12.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.403922 0.372549 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.290196 0.290196 0.968627 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.556863 0.556863 0.556863 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.643137 0.509804 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.966141 0.9846 0.999911 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
@@ -77,7 +91,7 @@
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.285657 0.294232 0.313057 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.242153 0.283381 0.325653 1</string>
+	<string>0.242153 0.283381 0.325653 0.2</string>
 	<key>DVTSourceTextSelectionColor</key>
 	<string>0.872906 0.902058 0.931431 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
@@ -87,9 +101,9 @@
 		<key>xcode.syntax.character</key>
 		<string>0.0759492 0.588455 0.670983 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.179363 0.496546 0.181021 0.5</string>
+		<string>0.682429 0.691361 0.700971 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.305281 0.415941 0.471539 1</string>
+		<string>0.682429 0.691361 0.700971 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.208826 0.282897 0.317388 1</string>
 		<key>xcode.syntax.identifier.class</key>
@@ -125,58 +139,58 @@
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.6 0.4 0.6 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.376157 0.614976 0.800053 1</string>
+		<string>0.476048 0.68867 0.552116 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.961746 0.596691 0.116718 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>Hasklig-Medium - 12.0</string>
 	</dict>
 </dict>
 </plist>
